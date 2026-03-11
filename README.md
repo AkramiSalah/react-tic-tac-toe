@@ -2,16 +2,6 @@
 
 A simple and interactive Tic-Tac-Toe game built with [React](https://reactjs.org/) and [CSS](https://www.w3schools.com/css/). This app allows two players to take turns playing Tic-Tac-Toe on the same machine.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [How to Play](#how-to-play)
-- [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Interactive game board with responsive design
